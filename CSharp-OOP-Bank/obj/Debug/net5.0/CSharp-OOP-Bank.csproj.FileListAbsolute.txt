@@ -1,0 +1,16 @@
+C:\Users\Callum\source\repos\CSharp-OOP-Bank\CSharp-OOP-Bank\bin\Debug\net5.0\CSharp-OOP-Bank.exe
+C:\Users\Callum\source\repos\CSharp-OOP-Bank\CSharp-OOP-Bank\bin\Debug\net5.0\CSharp-OOP-Bank.deps.json
+C:\Users\Callum\source\repos\CSharp-OOP-Bank\CSharp-OOP-Bank\bin\Debug\net5.0\CSharp-OOP-Bank.runtimeconfig.json
+C:\Users\Callum\source\repos\CSharp-OOP-Bank\CSharp-OOP-Bank\bin\Debug\net5.0\CSharp-OOP-Bank.runtimeconfig.dev.json
+C:\Users\Callum\source\repos\CSharp-OOP-Bank\CSharp-OOP-Bank\bin\Debug\net5.0\CSharp-OOP-Bank.dll
+C:\Users\Callum\source\repos\CSharp-OOP-Bank\CSharp-OOP-Bank\bin\Debug\net5.0\CSharp-OOP-Bank.pdb
+C:\Users\Callum\source\repos\CSharp-OOP-Bank\CSharp-OOP-Bank\obj\Debug\net5.0\CSharp-OOP-Bank.csproj.AssemblyReference.cache
+C:\Users\Callum\source\repos\CSharp-OOP-Bank\CSharp-OOP-Bank\obj\Debug\net5.0\CSharp-OOP-Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Callum\source\repos\CSharp-OOP-Bank\CSharp-OOP-Bank\obj\Debug\net5.0\CSharp-OOP-Bank.AssemblyInfoInputs.cache
+C:\Users\Callum\source\repos\CSharp-OOP-Bank\CSharp-OOP-Bank\obj\Debug\net5.0\CSharp-OOP-Bank.AssemblyInfo.cs
+C:\Users\Callum\source\repos\CSharp-OOP-Bank\CSharp-OOP-Bank\obj\Debug\net5.0\CSharp-OOP-Bank.csproj.CoreCompileInputs.cache
+C:\Users\Callum\source\repos\CSharp-OOP-Bank\CSharp-OOP-Bank\obj\Debug\net5.0\CSharp-OOP-Bank.dll
+C:\Users\Callum\source\repos\CSharp-OOP-Bank\CSharp-OOP-Bank\obj\Debug\net5.0\refint\CSharp-OOP-Bank.dll
+C:\Users\Callum\source\repos\CSharp-OOP-Bank\CSharp-OOP-Bank\obj\Debug\net5.0\CSharp-OOP-Bank.pdb
+C:\Users\Callum\source\repos\CSharp-OOP-Bank\CSharp-OOP-Bank\obj\Debug\net5.0\CSharp-OOP-Bank.genruntimeconfig.cache
+C:\Users\Callum\source\repos\CSharp-OOP-Bank\CSharp-OOP-Bank\obj\Debug\net5.0\ref\CSharp-OOP-Bank.dll
